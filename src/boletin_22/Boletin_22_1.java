@@ -81,7 +81,6 @@ public class Boletin_22_1 extends javax.swing.JFrame {
         jTextField2.setText("User mary");
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Staff", "Item 2", "Item 3", "Item 4" }));
-        jComboBox1.setSelectedItem(Staff);
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);
